@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrutinsPublics", "ScrutinsPublics.csproj", "{A418843F-2292-48A9-83CB-1145F2943241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrutinJSON", "..\ScrutinJSON\ScrutinJSON.csproj", "{EE367F10-9706-4589-912D-CDA05CB56E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A418843F-2292-48A9-83CB-1145F2943241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A418843F-2292-48A9-83CB-1145F2943241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A418843F-2292-48A9-83CB-1145F2943241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A418843F-2292-48A9-83CB-1145F2943241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE367F10-9706-4589-912D-CDA05CB56E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE367F10-9706-4589-912D-CDA05CB56E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE367F10-9706-4589-912D-CDA05CB56E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE367F10-9706-4589-912D-CDA05CB56E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E954728-EC64-44B0-B5BF-62BB39CB8507}
+	EndGlobalSection
+EndGlobal
